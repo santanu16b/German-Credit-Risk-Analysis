@@ -1,5 +1,6 @@
 # German-Credit-Risk-Analysis
  Dataset used from: https://www.kaggle.com/code/janiobachmann/german-credit-analysis-a-risk-perspective Tools Used: Excel · MySQL · Tableau Dataset: German Credit Risk dataset — 1,000 borrower records across savings levels and age, duration and credit bands 
+Tableau Dashboard : https://public.tableau.com/app/profile/santanu.banerjee/viz/GermanCreditRiskDashboard_17812610962950/CreditRiskDashboard
 
 Business Question
 What borrower characteristics — savings level, age, loan duration, loan purpose, credit amount — are most strongly associated with loan default? Which combinations of factors represent the highest-risk segments for a lender?
